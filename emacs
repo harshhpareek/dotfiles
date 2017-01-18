@@ -2,3 +2,4 @@
 (setq TeX-parse-self t)
 (setq TeX-save-query nil)
 (setq TeX-PDF-mode t)
+(setq latex-run-command "pdflatex")
